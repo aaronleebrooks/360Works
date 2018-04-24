@@ -1,4 +1,4 @@
-const url = 'http://static.360works.com/codingtest.txt';
+const url = 'https://static.360works.com/codingtest.txt';
 
 
 fetch(url, {mode: 'cors'})
